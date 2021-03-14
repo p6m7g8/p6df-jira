@@ -38,9 +38,11 @@
 
 - [Change Log](CHANGELOG.md)
 
-### Usage
+## Usage
 
-#### init.zsh:
+### p6df-jira:
+
+#### p6df-jira/init.zsh:
 
 - p6df::modules::jira::deps()
 - p6df::modules::jira::external::brew()
